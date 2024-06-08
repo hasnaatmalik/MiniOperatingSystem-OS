@@ -9,7 +9,6 @@ This project is a simulation of an operating system (OS) environment implemented
 3. [Dependencies](#dependencies)
 4. [Installation](#installation)
 6. [Contributing](#contributing)
-7. [License](#license)
 
 ## Introduction
 
@@ -33,28 +32,29 @@ This operating system simulation project is designed to provide a learning platf
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your_username/operating-system-simulation.git
+   git clone https://github.com/hasnaatmalik/MiniOperatingSystem-OS.git
 Install dependencies as per your system requirements and specifications. Ensure SFML and GTK are properly configured.
 
-## Contributing
+## Contribution
+
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
-** Fork the repository.
+**Fork the repository.**
 Create a new branch (git checkout -b feature/your_feature_name).
 Make your changes.
 Commit your changes (git commit -am 'Add new feature').
 Push to the branch (git push origin feature/your_feature_name).
-** Create a new Pull Request.
+**Create a new Pull Request.**
 
 ## Run Script (run.sh)
 The run.sh file contains all the compilation commands needed to compile the project. To run it, first ensure it has executable permissions:
 
-** chmod +x run.sh
+**chmod +x run.sh**
 Then, simply execute the script:
 
-** ./run.sh
+**./run.sh**
 This will compile the project using the specified commands and generate the executable file.
 
 Then Execute 
-** ./main
+**./main**
 and it will start running the Operating System !
