@@ -49,17 +49,17 @@ Push to the branch (git push origin feature/your_feature_name).
 ## Run Script (run.sh)
 The `run.sh` file contains all the compilation commands needed to compile the project. To run it, first ensure it has executable permissions:
 
-chmod +x run.sh
+**chmod +x run.sh**
 
 Then, simply execute the script:
 
-./run.sh
+**./run.sh**
 
 This will compile the project using the specified commands and generate the executable file.
 
 Then execute:
 
-./main
+**./main**
 
 and it will start running the Operating System!
 
